@@ -1,4 +1,3 @@
-# Bank Loan of Customers Analysis
 # 💼  Bank Loan of Customers Analysis
 
 Domain: Finance | Dataset Size: 78K+ records | Tools Used: SQL, Power BI, Excel
